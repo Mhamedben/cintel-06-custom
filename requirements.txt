@@ -6,3 +6,4 @@ faicons
 plotly.express
 shiny.express
 yfinance
+cufflinks
